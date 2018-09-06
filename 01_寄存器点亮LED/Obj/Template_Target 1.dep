@@ -1,0 +1,13 @@
+Dependencies for Project 'Template', Target 'Target 1': (DO NOT MODIFY !)
+F (.\User\main.c)(0x5B8EB05D)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I E:\01anzhuang\keilArm\ARM\CMSIS\4.5.0\CMSIS\Include-IG:\01电子空间\01ARM实验室\01寄存器点亮LED\RTE-IE:\01anzhuang\keilArm\Keil\STM32F1xx_DFP\1.0.5\Device\Include-IE:\01anzhuang\keilArm\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD-o .\obj\main.o --omf_browse .\obj\main.crf --depend .\obj\main.d)
+I (User\stm32f10x.h)(0x4D783CB4)
+I (E:\01anzhuang\keilArm\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h)(0x5625B70C)
+I (E:\01anzhuang\keilArm\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (E:\01anzhuang\keilArm\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
+I (E:\01anzhuang\keilArm\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
+I (E:\01anzhuang\keilArm\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
+I (E:\01anzhuang\keilArm\Keil\STM32F1xx_DFP\1.0.5\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (User\register_define.h)(0x5B8EB042)
+F (.\User\startup_stm32f10x_hd.s)(0x4D783CDE)(--cpu Cortex-M3 -g --apcs=interwork -IG:\01电子空间\01ARM实验室\01寄存器点亮LED\RTE-IE:\01anzhuang\keilArm\Keil\STM32F1xx_DFP\1.0.5\Device\Include-IE:\01anzhuang\keilArm\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 521" --pd "STM32F10X_HD SETA 1"--list .\listings\startup_stm32f10x_hd.lst --xref -o .\obj\startup_stm32f10x_hd.o --depend .\obj\startup_stm32f10x_hd.d)
+F (.\User\stm32f10x.h)(0x4D783CB4)()
+F (.\User\register_define.h)(0x5B8EB042)()

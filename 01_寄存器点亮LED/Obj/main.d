@@ -1,0 +1,9 @@
+.\obj\main.o: User\main.c
+.\obj\main.o: User\stm32f10x.h
+.\obj\main.o: E:\01anzhuang\keilArm\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h
+.\obj\main.o: E:\01anzhuang\keilArm\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\main.o: E:\01anzhuang\keilArm\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h
+.\obj\main.o: E:\01anzhuang\keilArm\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h
+.\obj\main.o: E:\01anzhuang\keilArm\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h
+.\obj\main.o: E:\01anzhuang\keilArm\Keil\STM32F1xx_DFP\1.0.5\Device\Include\system_stm32f10x.h
+.\obj\main.o: User\register_define.h
